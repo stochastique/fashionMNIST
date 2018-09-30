@@ -1,0 +1,15 @@
+
+fashion-mnist_train.csv
+fashion-mnist_test.csv
+*.m
+octave-workspace
+mlspace.py
+kernel.ipynb
+ex3data1.mat
+ex3weights.mat
+ex4data1.mat
+ex4weights.mat
+__pycache__/mlspace.cpython-36.pyc
+__pycache__/displaydata.cpython-36.pyc
+.ipynb_checkpoints/Multi-classClassification-checkpoint.ipynb
+.ipynb_checkpoints/kernel-checkpoint.ipynb
