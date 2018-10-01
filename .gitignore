@@ -13,3 +13,8 @@ __pycache__/mlspace.cpython-36.pyc
 __pycache__/displaydata.cpython-36.pyc
 .ipynb_checkpoints/Multi-classClassification-checkpoint.ipynb
 .ipynb_checkpoints/kernel-checkpoint.ipynb
+file.txt
+mlspace.py.lprof
+performance.txt
+testBLAS.py
+test_numpy.py
